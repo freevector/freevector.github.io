@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "http://www.liuchengxu.org" # the base hostname & protocol for your site
 twitter_username:
-github_username:  freevector
+github_username:  liuchengxu
 disqus_username:
 google_analytics: UA-73260325-1
 
