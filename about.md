@@ -10,13 +10,13 @@ active: about
 
 <img name='name_cn' style="width=80px; height:60px;"  src="{{ site.images }}/name_cn.png" />
 
-### Liu-Cheng Xu
+### Vector Chow
 
-Email: xuliuchengxlc#gmail.com
+Email: zdengqing#gmail.com
 
 You can also find me here:
 
-- [GitHub](https://github.com/liuchengxu)
+- [GitHub](https://github.com/freevector)
 
 ### Biography
 
