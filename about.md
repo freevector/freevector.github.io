@@ -12,7 +12,7 @@ active: about
 
 ### Vector Chow
 
-Email: zdengqing#gmail.com
+Email: zdengqing#126.com
 
 You can also find me here:
 
@@ -20,12 +20,15 @@ You can also find me here:
 
 ### Biography
 
-I received my B.Sc. degree in Computer Science and Technology in June 2016 from Shenzhen University.
+I received my Mphi. degree in Engineering Thermophysics in June 2015 from Shanghai Jiao Tong University.
 
 ### Research Interest
 
-Currently I am focusing on Blockchain.
+Currently I am focusing on centrifgual chiller design, CFD skills, like ansys, openfoam etc.
 
-Previously, I learn about **machine learning** and **data mining**, which are still atttractive to me. For applications, I am also interested in the following areas:
-
-- recommender system
+During my master period, my research was focused on the heat transfer of nanofluids, which is a kind of noval material. Now I am interestd in the following things:
+>* python
+>* latex
+>* openfoam
+>* cfx & fluent
+ 
