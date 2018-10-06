@@ -8,6 +8,15 @@ categories: posts
 tags: ['sound-science']
 author: Vector CHOW
 ---
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 ### 亥姆霍兹共振器
 **亥姆霍兹共振器**是一个带开口（孔/颈）的气体容器（通常为空气），靠近开口处的气体做类似于弹簧的往复运动。一个常见的例子就是当你略带一点角度吹瓶口的时候，会发出特定频率的尖啸声。  
 ![](http://people.seas.harvard.edu/%7Ejones/cscie129/nu_lectures/lecture3%20/ho_helmholtz/helm_resonator_3.jpg)
