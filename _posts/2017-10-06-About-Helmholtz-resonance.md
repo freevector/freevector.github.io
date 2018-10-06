@@ -24,11 +24,18 @@ author: Vector CHOW
 ![](http://newt.phys.unsw.edu.au/jw/graphics/Helmholtz1.GIF)
 首先假设该共振器发出的波长大于共振器本身的尺寸，后面我们会根据计算结果对该假设进行检验；在上述假设的条件下，我们可以忽略容器内的压力波动。
 ![](http://newt.phys.unsw.edu.au/jw/graphics/Helmholtz2.GIF)
-假设容器接管长L，气体密度为$\rho$ ，根据热力学方程有:$$PV^\gamma=Const \Rightarrow dP/P=-\gamma dV/V$$  
-又因为$dV=Sdx $，根据牛顿第二定理：
-$$a=F/m$$
-$$F=dP*S=-\gamma PSdV/V$$
-$$m=\rho SL$$
-$$\Rightarrow a= -\gamma PdV/\rho LV= -\gamma PSdx/\rho LV$$
-往复力同位移成正比且反向，显然类似于弹簧力，有如下周期
+假设容器接管长L，气体密度为$\rho$ ，根据热力学方程有:  
+$$PV^\gamma=Const \Rightarrow dP/P=-\gamma dV/V$$  
+又因为$dV=Sdx $，根据牛顿第二定理：  
+
+$$a=F/m$$  
+
+$$F=dP*S=-\gamma PSdV/V$$  
+
+$$m=\rho SL$$  
+
+$$\Rightarrow a= -\gamma PdV/\rho LV= -\gamma PSdx/\rho LV$$  
+
+往复力同位移成正比且反向，显然类似于弹簧力，有如下周期  
+
 $$f=\sqrt(\gamma PSdx/\rho LV)/2\pi=c\sqrt(S/VL)/2\pi$$
