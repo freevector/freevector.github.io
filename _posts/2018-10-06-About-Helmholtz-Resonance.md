@@ -39,4 +39,4 @@ $$\Rightarrow a= -\gamma PdV/\rho LV= -\gamma PSdx/\rho LV$$
 往复力同位移成正比且反向，显然类似于弹簧力，有如下周期  
 
 $$f=\sqrt(\gamma PSdx/\rho LV)/2\pi=c\sqrt(S/VL)/2\pi$$
->版权归[原文所有](http://newt.phys.unsw.edu.au/jw/Helmholtz.html) ，本文仅为中文翻译。
+> 版权归[原文所有](http://newt.phys.unsw.edu.au/jw/Helmholtz.html) ，本文仅为中文翻译。
