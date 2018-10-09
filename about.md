@@ -20,8 +20,7 @@ You can also find me here:
 
 ### Biography
 
-I received my Mphi. degree in Engineering Thermophysics in June 2015 from Shanghai Jiao Tong University.
-
+I received my Mphi. degree in Engineering Thermophysics in June 2015 from Shanghai Jiao Tong University. You could find my CV by click it.
 ### Research Interest
 
 Currently I am focusing on centrifgual chiller design, CFD skills, like ansys, openfoam etc.
