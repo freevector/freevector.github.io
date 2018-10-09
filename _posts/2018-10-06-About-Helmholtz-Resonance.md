@@ -1,7 +1,7 @@
 ---
 bg: "think.jpg"
 layout: post
-title:  "About Helmholtz resonance"
+title:  "About Helmholtz Resonance"
 crawlertitle: "resonance"
 summary: "noise"
 categories: posts
