@@ -8,6 +8,7 @@ categories: posts
 tags: ['Latex']
 author: Vector CHOW
 ---
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
 ### Latex在ubuntu系统的安装
 **Latex** 在科技论文排版方面优势明显，很多期刊都有相应的模板。Ubuntu系统下可以通过如下几个步骤安装latex。  
 
@@ -31,3 +32,7 @@ texmaker
 ```vim
 \documentclass{article} \begin{document} Hello oschina! \end{document} 
 ```
+<span id="busuanzi_container_site_uv">
+  本站访客数<span id="busuanzi_value_site_uv"></span>人次
+</span>
+
