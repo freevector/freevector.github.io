@@ -9,7 +9,7 @@ tags: ['Book']
 author: Vector CHOW
 ---
 <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
-###读《中国人的修养》
+### 读《中国人的修养》
 **中国人的修养**这本书是由**曹高胜**所著，里面很多鸡汤，但却有深度，作者旁征博引，让人说服。 本博文将作为读书笔记同大家分享一些我认为比较经典的句子，同时也作为警句鞭策自己。
 
 ```
