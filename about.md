@@ -20,15 +20,15 @@ You can also find me here:
 
 ### Biography
 
-I received my Mphi. degree in Engineering Thermophysics in June 2015 from Shanghai Jiao Tong University. You could find my [CV](https://github.com/freevector/freevector.github.io/blob/master/CV_ZHOU.pdf)  by click it.
+I received my Mphi. degree in Engineering Thermophysics in June 2015 from Shanghai Jiao Tong University. Currently I am working as an refrigeration system engineer in Midea. You could find my [CV](https://github.com/freevector/freevector.github.io/blob/master/CV_ZHOU.pdf)  by click it.
 ### Research Interest
 
 Currently I am focusing on centrifgual chiller design, CFD skills, like ansys, openfoam etc.
 
 During my master period, my research was focused on the heat transfer of nanofluids, which is a kind of noval material. Now I am interestd in the following things:
 
->* python
->* latex
->* openfoam
->* cfx & fluent
+>* **Python**
+>* **Latex**
+>* **OpenFOAM**
+>* **CFX & Fluent**
  
