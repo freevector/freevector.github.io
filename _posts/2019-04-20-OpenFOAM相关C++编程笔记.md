@@ -21,7 +21,7 @@ author: Vector CHOW
 ### C++学习笔记-多态性
 #### OpenFOAM相关
 
-在openfoam中，多态应用很广，例如一下模型都用到了多态：
+在openfoam中，多态应用很广，例如以下模型都用到了多态：
 + Turbulence models
 + Boundary conditions
 + functionObjects
@@ -70,7 +70,8 @@ c++的多态性用一句话概括就是:在基类的函数前加上virtual关键
         return 0;
     }
     ```
- 每个类都有同名、同参数表的虚函数 Print（每个 Print 函数声明时都加了 virtual 关键字）。根据多态的规则，对于语句“pa->Print()”，由于 Print 是虚函数，尽管 pa 是基类 A 的指针，编译时也不能确定调用的是哪个类的 Print 函数。当程序运行到该语句时，pa 指向的是哪个类的对象，调用的就是哪个类的 Print 函数。
+
+每个类都有同名、同参数表的虚函数 Print（每个 Print 函数声明时都加了 virtual 关键字）。根据多态的规则，对于语句“pa->Print()”，由于 Print 是虚函数，尽管 pa 是基类 A 的指针，编译时也不能确定调用的是哪个类的 Print 函数。当程序运行到该语句时，pa 指向的是哪个类的对象，调用的就是哪个类的 Print 函数。
  例如，程序执行到第 26 行时，pa 指向的是基类对象 a，因此调用的就是类 A 的 Print 成员函数；执行到第 28 行时，pa 指向的是类 B 的对象，因此调用的是类 B 的 Print 成员函数；第 30 行也是如此；类 E 是类 A 的间接派生类，因此，执行到第 32 行时，多态规则仍然适用，此时 pa 指向派生类 E 的对象，故调用的是类 E 的 Print 成员函数。
 
 
