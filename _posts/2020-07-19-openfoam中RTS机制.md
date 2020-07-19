@@ -80,7 +80,9 @@ public:
 };
 ```
 > 上面的 shared_ptr 是 C++11 标准中的智能指针，OpenFOAM 中的 autoPtr 和它功能类似。
+
 main 函数代码如下：
+
 ```
 int main(int argc, char *argv[])
 {
@@ -90,6 +92,7 @@ int main(int argc, char *argv[])
     return 0;
 }
 ```
+
 编译运行后结果如下：
 ```
 $ g++ mini-rts_v1.cpp -o mini-rts_v1
