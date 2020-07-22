@@ -29,6 +29,8 @@ During my master period, my research was focused on the heat transfer of nanoflu
 
 >* **Python**
 >* **Latex**
->* **OpenFOAM**
+>* **OpenFOAM/C++**
 >* **CFX & Fluent**
+>* **CFD skills**
+>* **Dynamic Mode Decomposition**
  
